@@ -31,9 +31,9 @@ const greet = () => {
 const getBio = () => {
 	return (Bio = {
 		'- ⚡ Quick bio:':
-			'A kind of selfLearner-fictionReader-positive Person-bathroomSinger-traveler-foodLover-gamer-coder-programmer-catLover-dancer-loveRat❤️',
+			'A kind of selfLearner-fictionReader-positivePerson-bathroomSinger-traveler-foodLover-gamer-coder-programmer-catLover-dancer-loveRat❤️',
 		'- 🔭 I’m currently studying':
-			'Bachelour of Computer Science in India --- Self learning programmer',
+			'Bachelor of Computer Science in India --- Self learning programmer',
 		'- 🌱 I’m currently learning':
 			'React, Node, Express, React Native, MySQL, MongoDB --- Sharpening my Front End Skills for the MERN stack (Personal goal)',
 		'- 👯 I’m looking to collaborate on':
@@ -64,6 +64,13 @@ const getBio = () => {
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ashiqfury&show_icons=true&theme=synthwave" alt="ashiqfury :: Profile Stats" style="box-shadow: 0 0 10px rgba(0,0,0,0.15), 0 0 40px rgba(0,0,0,0.15);"/></p>
 
 </h2>
+
+<br/>
+
+<h3 align="center" style="font-weight: 800;">Codewars stats 🏆</h3>
+
+<p align="center"><img src="https://www.codewars.com/users/ashiqfury/badges/large" alt="ashiqfury :: Codewars Stats" style="box-shadow: 0 0 10px rgba(0,0,0,0.15), 0 0 40px rgba(0,0,0,0.15);"/></p>
+
 
 <br />
 <hr/>
@@ -101,7 +108,7 @@ const getBio = () => {
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=crimson)
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=crimson)
 ![MarkDown](https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=Linux&logoColor=white&labelColor=crimson)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=crimson)
+![MySql](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=crimson)
 
 </div>
 <br />
