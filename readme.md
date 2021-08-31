@@ -82,7 +82,7 @@ const getBio = () => {
 
 - <a href="https://www.instagram.com/_a.s.h.i.q__f.u.r.y_/"><img src="https://img.shields.io/badge/instagram%20@__a.s.h.i.q__f.u.r.y__-crimson?style=for-the-badge&logo=instagram&logoColor=white" style="box-shadow: 0 0 10px rgba(0,0,0,0.15), 0 0 40px rgba(0,0,0,0.15); border-radius: 5px;"/></a>
 - <a href="https://www.linkedin.com/in/ashiq-fury-1224a9205/"><img src="https://img.shields.io/badge/linkedin%20@ashiq_fury-crimson?style=for-the-badge&logo=linkedin&logoColor=white" style="box-shadow: 0 0 10px rgba(0,0,0,0.15), 0 0 40px rgba(0,0,0,0.15); border-radius: 5px;"/></a>
-- <a href="https://www.faceboook.com/ashiqfury/"><img src="https://img.shields.io/badge/facebook%20@Ashiq Fury-crimson?style=for-the-badge&logo=facebook&logoColor=white" style="box-shadow: 0 0 10px rgba(0,0,0,0.15), 0 0 40px rgba(0,0,0,0.15); border-radius: 5px;"/></a>
+- <a href="https://www.faceboook.com/ashiqfury/"><img src="https://img.shields.io/badge/facebook%20@AshiqFury-crimson?style=for-the-badge&logo=facebook&logoColor=white" style="box-shadow: 0 0 10px rgba(0,0,0,0.15), 0 0 40px rgba(0,0,0,0.15); border-radius: 5px;"/></a>
 - <a href="https://twitter.com/ashiqfury/"><img src="https://img.shields.io/badge/twitter%20@ashiqfury-crimson?style=for-the-badge&logo=twitter&logoColor=white" style="box-shadow: 0 0 10px rgba(0,0,0,0.15), 0 0 40px rgba(0,0,0,0.15); border-radius: 5px;"/></a>
 - <a href="https://github.com/ashiqfury/"><img height="30px" src="https://img.shields.io/badge/site:%20ashiqfury.github.io-crimson?style=for-the-badge&logo=google%20chrome&logoColor=white" style="box-shadow: 0 0 10px rgba(0,0,0,0.15), 0 0 40px rgba(0,0,0,0.15); border-radius: 5px;"/></a>
 
