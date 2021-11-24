@@ -31,18 +31,18 @@ const greet = () => {
 const getBio = () => {
 	return (Bio = {
 		'- ⚡ Quick bio:':
-			'A kind of selfLearner-fictionReader-positivePerson-bathroomSinger-traveler-foodLover-gamer-coder-programmer-catLover-dancer-loveRat❤️',
+			'A kind of selfLearner-fictionReader-positivePerson-bathroomSinger-traveler-foodLover-gamer-coder-programmer-catLover-loveRat❤️',
 		'- 🔭 I’m currently studying':
 			'Bachelor of Computer Science in India --- Self learning programmer',
 		'- 🌱 I’m currently learning':
-			'React, Node, Express, React Native, MySQL, MongoDB --- Sharpening my Front End Skills for the MERN stack (Personal goal)',
+			'React, Node, Express, React Native, MySQL, MongoDB, NextJs --- Sharpening my Front End Skills for the MERN stack (Personal goal)',
 		'- 👯 I’m looking to collaborate on':
 			'Python, Javascript and React related projects',
 		'- 🤔 I’m looking for help with':
 			'Anything related to what I am currently learning 😅',
 		'- 💬 Ask me about':
 			'Python, PHP, React, Node, Express, SQL, Software Design & Architecture, Web-Dev and SEO',
-		'- 📫 How to reach me:': 'https://github.com/ashiqfury',
+		'- 📫 How to reach me:': 'https://instagram.com/_a.s.h.i.q__f.u.r.y_',
 	});
 };
 ```
@@ -67,7 +67,7 @@ const getBio = () => {
 
 <br/>
 
-<h3 align="center" style="font-weight: 800;">Codewars stats 🏆</h3>
+<h3 align="center" style="font-weight: 800;">Codewars stats 😎</h3>
 
 <p align="center"><img src="https://www.codewars.com/users/ashiqfury/badges/large" alt="ashiqfury :: Codewars Stats" style="box-shadow: 0 0 10px rgba(0,0,0,0.15), 0 0 40px rgba(0,0,0,0.15);"/></p>
 
