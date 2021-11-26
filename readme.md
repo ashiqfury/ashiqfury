@@ -5,7 +5,7 @@
 <br />
 <!-- ![](/banner.png) -->
 
-<a href="https:github.com/ashiqfury">
+<a href="https://github.com/ashiqfury">
 <img src="./gifBanner.gif" style="box-shadow: 0 0 10px rgba(0,0,0,0.15), 0 0 40px rgba(0,0,0,0.15); border-radius: 10px;" alt="Banner Image">
 </a>
 
