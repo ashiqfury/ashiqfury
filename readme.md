@@ -76,7 +76,7 @@ const getBio = () => {
 <hr/>
 <br />
 
-<img align="right" alt="GIF" src="./anime.gif" width="450" style="box-shadow: 0 0 10px rgba(0,0,0,0.15), 0 0 40px rgba(0,0,0,0.15); border-radius: 10px;"/>
+<img align="right" alt="GIF" src="./anime.gif" width="450" style="box-shadow: 0 0 10px rgba(0,0,0,0.15), 0 0 40px rgba(0,0,0,0.15); border-radius: 10px; margin-bottom: 10px;"/>
 
 <div align="left">
 
