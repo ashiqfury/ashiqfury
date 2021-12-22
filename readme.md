@@ -31,7 +31,7 @@ const greet = () => {
 const getBio = () => {
 	return (Bio = {
 		'- ⚡ Quick bio:':
-			'A kind of selfLearner-fictionReader-positivePerson-bathroomSinger-traveler-foodLover-gamer-coder-programmer-catLover-loveRat❤️',
+			'A kind of selfLearner-nonFictionReader-positivePerson-bathroomSinger-traveler-foodLover-gamer-coder-programmer-loveRat❤️',
 		'- 🔭 I’m currently studying':
 			'Bachelor of Computer Science in India --- Self learning programmer',
 		'- 🌱 I’m currently learning':
