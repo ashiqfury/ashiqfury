@@ -115,4 +115,6 @@ const getBio = () => {
 
 <img align="right" src="./banner.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.15), 0 0 40px rgba(0,0,0,0.15); border-radius: 10px; border: 2px solid #ddd;" alt="Banner Image">
 
+![Visitor Count](https://profile-counter.glitch.me/ashiqfury/count.svg)
+
 ⭐️ From [ashiqfury](https://github.com/ashiqfury)
