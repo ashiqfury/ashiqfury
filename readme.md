@@ -109,6 +109,7 @@ const getBio = () => {
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=crimson)
 ![MarkDown](https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=Linux&logoColor=white&labelColor=crimson)
 ![MySql](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=crimson)
+<br />
 ![MySql](https://img.shields.io/badge/-kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=crimson)
 ![MySql](https://img.shields.io/badge/-swift-grey?style=for-the-badge&logo=swift&logoColor=white&labelColor=crimson)
 ![MySql](https://img.shields.io/badge/-android-grey?style=for-the-badge&logo=android&logoColor=white&labelColor=crimson)
